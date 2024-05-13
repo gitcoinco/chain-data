@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "mainnet",
     "icon": "",
     "rpc": {
@@ -8,11 +8,11 @@
       "infura": "https://mainnet.infura.io/v3/",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1667354777",
+    "pricesFromTimestamp": 1667354777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "10",
+    "id": 10,
     "name": "optimism",
     "icon": "",
     "rpc": {
@@ -20,11 +20,11 @@
       "infura": "",
       "alchemy": "https://opt-mainnet.g.alchemy.com/v2/"
     },
-    "pricesFromTimestamp": "1667354777",
+    "pricesFromTimestamp": 1667354777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "11155111",
+    "id": 11155111,
     "name": "sepolia",
     "icon": "",
     "rpc": {
@@ -32,11 +32,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1667354777",
+    "pricesFromTimestamp": 1667354777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "250",
+    "id": 250,
     "name": "fantom",
     "icon": "",
     "rpc": {
@@ -44,11 +44,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1667354777",
+    "pricesFromTimestamp": 1667354777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "58008",
+    "id": 58008,
     "name": "pgn-testnet",
     "icon": "",
     "rpc": {
@@ -56,11 +56,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1683079577",
+    "pricesFromTimestamp": 1683079577,
     "maxGetLogsRange": ""
   },
   {
-    "id": "424",
+    "id": 424,
     "name": "pgn-mainnet",
     "icon": "",
     "rpc": {
@@ -68,11 +68,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1683079577",
+    "pricesFromTimestamp": 1683079577,
     "maxGetLogsRange": ""
   },
   {
-    "id": "42161",
+    "id": 42161,
     "name": "arbitrum",
     "icon": "",
     "rpc": {
@@ -80,11 +80,11 @@
       "infura": "",
       "alchemy": "https://arb-mainnet.g.alchemy.com/v2/"
     },
-    "pricesFromTimestamp": "1688263577",
+    "pricesFromTimestamp": 1688263577,
     "maxGetLogsRange": ""
   },
   {
-    "id": "80001",
+    "id": 80001,
     "name": "polygon-mumbai",
     "icon": "",
     "rpc": {
@@ -92,11 +92,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1692497177",
+    "pricesFromTimestamp": 1692497177,
     "maxGetLogsRange": ""
   },
   {
-    "id": "137",
+    "id": 137,
     "name": "polygon",
     "icon": "",
     "rpc": {
@@ -104,11 +104,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1692497177",
+    "pricesFromTimestamp": 1692497177,
     "maxGetLogsRange": ""
   },
   {
-    "id": "8543",
+    "id": 8543,
     "name": "base",
     "icon": "",
     "rpc": {
@@ -120,7 +120,7 @@
     "maxGetLogsRange": ""
   },
   {
-    "id": "324",
+    "id": 324,
     "name": "zksync-era-mainnet",
     "icon": "",
     "rpc": {
@@ -132,7 +132,7 @@
     "maxGetLogsRange": ""
   },
   {
-    "id": "300",
+    "id": 300,
     "name": "zksync-era-testnet",
     "icon": "",
     "rpc": {
@@ -140,11 +140,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1701486377",
+    "pricesFromTimestamp": 1701486377,
     "maxGetLogsRange": ""
   },
   {
-    "id": "43114",
+    "id": 43114,
     "name": "avalanche",
     "icon": "",
     "rpc": {
@@ -152,11 +152,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1692497177",
+    "pricesFromTimestamp": 1692497177,
     "maxGetLogsRange": ""
   },
   {
-    "id": "43113",
+    "id": 43113,
     "name": "avalanche-fuji",
     "icon": "",
     "rpc": {
@@ -164,11 +164,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1692497177",
+    "pricesFromTimestamp": 1692497177,
     "maxGetLogsRange": ""
   },
   {
-    "id": "534351",
+    "id": 534351,
     "name": "scroll-sepolia",
     "icon": "",
     "rpc": {
@@ -176,11 +176,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1704164777",
+    "pricesFromTimestamp": 1704164777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "534352",
+    "id": 534352,
     "name": "scroll-mainnet",
     "icon": "",
     "rpc": {
@@ -188,11 +188,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1704164777",
+    "pricesFromTimestamp": 1704164777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "713715",
+    "id": 713715,
     "name": "sei-devnet",
     "icon": "",
     "rpc": {
@@ -200,11 +200,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1704164777",
+    "pricesFromTimestamp": 1704164777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "42",
+    "id": 42,
     "name": "lukso-mainnet",
     "icon": "",
     "rpc": {
@@ -212,11 +212,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1704164777",
+    "pricesFromTimestamp": 1704164777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "4201",
+    "id": 4201,
     "name": "lukso-testnet",
     "icon": "",
     "rpc": {
@@ -224,11 +224,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1704164777",
+    "pricesFromTimestamp": 1704164777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "42220",
+    "id": 42220,
     "name": "celo-mainnet",
     "icon": "",
     "rpc": {
@@ -236,11 +236,11 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1704164777",
+    "pricesFromTimestamp": 1704164777,
     "maxGetLogsRange": ""
   },
   {
-    "id": "44787",
+    "id": 44787,
     "name": "celo-testnet",
     "icon": "",
     "rpc": {
@@ -248,7 +248,7 @@
       "infura": "",
       "alchemy": ""
     },
-    "pricesFromTimestamp": "1704164777",
+    "pricesFromTimestamp": 1704164777,
     "maxGetLogsRange": ""
   }
 ]
