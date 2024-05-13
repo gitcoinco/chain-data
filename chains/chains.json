@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "mainnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
     "rpc": {
       "public": "",
       "infura": "https://mainnet.infura.io/v3/",
@@ -14,7 +14,7 @@
   {
     "id": 10,
     "name": "optimism",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmZzq5SpFNGJr9DTgaUck9iBVAWRpNnJVndTxgTGbrrZn2",
     "rpc": {
       "public": "",
       "infura": "",
@@ -26,7 +26,7 @@
   {
     "id": 11155111,
     "name": "sepolia",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
     "rpc": {
       "public": "https://ethereum-sepolia.publicnode.com",
       "infura": "",
@@ -38,7 +38,7 @@
   {
     "id": 250,
     "name": "fantom",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
     "rpc": {
       "public": "https://rpcapi.fantom.network",
       "infura": "",
@@ -50,7 +50,7 @@
   {
     "id": 58008,
     "name": "pgn-testnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmagrvn2SY5TEoLgqUtcc1745ABZTFoPmod37tW37u7HYo",
     "rpc": {
       "public": "https://sepolia.publicgoods.network",
       "infura": "",
@@ -62,7 +62,7 @@
   {
     "id": 424,
     "name": "pgn-mainnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmagrvn2SY5TEoLgqUtcc1745ABZTFoPmod37tW37u7HYo",
     "rpc": {
       "public": "https://rpc.publicgoods.network",
       "infura": "",
@@ -74,7 +74,7 @@
   {
     "id": 42161,
     "name": "arbitrum",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmZcLbB9U1VEdY8eXkW14CHhL21WVbJSUQ5s1dDTb1MSwJ",
     "rpc": {
       "public": "",
       "infura": "",
@@ -86,7 +86,7 @@
   {
     "id": 80001,
     "name": "polygon-mumbai",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmcg4P1KcBQWYezSrV7KTCJxiq9a2aRtr1GBrXLAxNJqXy",
     "rpc": {
       "public": "https://rpc-mumbai.maticvigil.com/",
       "infura": "",
@@ -98,7 +98,7 @@
   {
     "id": 137,
     "name": "polygon",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmcg4P1KcBQWYezSrV7KTCJxiq9a2aRtr1GBrXLAxNJqXy",
     "rpc": {
       "public": "https://polygon-rpc.com",
       "infura": "",
@@ -110,7 +110,7 @@
   {
     "id": 8543,
     "name": "base",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQaAsfJpUuKmpX3eJEzgdZjqqFWmWHXnDy3MpPVJyDzcj",
     "rpc": {
       "public": "https://mainnet.base.org/",
       "infura": "",
@@ -122,7 +122,7 @@
   {
     "id": 324,
     "name": "zksync-era-mainnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
     "rpc": {
       "public": "https://mainnet.era.zksync.io",
       "infura": "",
@@ -134,7 +134,7 @@
   {
     "id": 300,
     "name": "zksync-era-testnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
     "rpc": {
       "public": "https://sepolia.era.zksync.dev",
       "infura": "",
@@ -146,7 +146,7 @@
   {
     "id": 43114,
     "name": "avalanche",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
     "rpc": {
       "public": "https://rpc.ankr.com/avalanche",
       "infura": "",
@@ -158,7 +158,7 @@
   {
     "id": 43113,
     "name": "avalanche-fuji",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
     "rpc": {
       "public": "https://avalanche-fuji-c-chain.publicnode.com",
       "infura": "",
@@ -170,7 +170,7 @@
   {
     "id": 534351,
     "name": "scroll-sepolia",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
     "rpc": {
       "public": "https://sepolia-rpc.scroll.io",
       "infura": "",
@@ -182,7 +182,7 @@
   {
     "id": 534352,
     "name": "scroll-mainnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
     "rpc": {
       "public": "https://rpc.scroll.io",
       "infura": "",
@@ -194,7 +194,7 @@
   {
     "id": 713715,
     "name": "sei-devnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
     "rpc": {
       "public": "https://evm-rpc-arctic-1.sei-apis.com",
       "infura": "",
@@ -206,7 +206,7 @@
   {
     "id": 42,
     "name": "lukso-mainnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
     "rpc": {
       "public": "https://42.rpc.thirdweb.com",
       "infura": "",
@@ -218,7 +218,7 @@
   {
     "id": 4201,
     "name": "lukso-testnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
     "rpc": {
       "public": "https://4201.rpc.thirdweb.com",
       "infura": "",
@@ -230,7 +230,7 @@
   {
     "id": 42220,
     "name": "celo-mainnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
     "rpc": {
       "public": "https://forno.celo.org",
       "infura": "",
@@ -242,7 +242,7 @@
   {
     "id": 44787,
     "name": "celo-testnet",
-    "icon": "",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
     "rpc": {
       "public": "https://alfajores-forno.celo-testnet.org",
       "infura": "",
