@@ -1,0 +1,1046 @@
+[
+  {
+    "id": 1,
+    "name": "mainnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+    "rpc": {
+      "public": "",
+      "infura": "https://mainnet.infura.io/v3/",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1667354777,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [
+        {
+          "name": "DAI",
+          "chainId": 1,
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "decimal": 18,
+          "logo": "DAI",
+          "redstoneTokenId": "DAI"
+        },
+        {
+          "name": "ETH",
+          "chainId": 1,
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimal": 18,
+          "logo": "ETH",
+          "redstoneTokenId": "ETH"
+        },
+        {
+          "name": "CVP",
+          "chainId": 1,
+          "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+          "decimal": 18,
+          "logo": "CVP",
+          "redstoneTokenId": "CVP"
+        },
+        {
+          "name": "mkUSD",
+          "chainId": 1,
+          "address": "0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28",
+          "decimal": 18,
+          "logo": "mkUSD",
+          "redstoneTokenId": "mkUSD"
+        }
+      ],
+      "indexer": [
+        {
+          "code": "USDC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        },
+        {
+          "code": "DAI",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        }
+      ],
+      "donation": []
+    },
+    "subscriptions": [
+      {
+        "contractName": "AlloV1/ProjectRegistry/V2",
+        "address": "0x03506eD3f57892C85DB20C36846e9c808aFe9ef4"
+      },
+      {
+        "contractName": "AlloV1/RoundFactory/V2",
+        "address": "0x9Cb7f434aD3250d1656854A9eC7A71EceC6eE1EF",
+        "fromBlock": 16994474,
+        "eventsRenames": []
+      },
+      {
+        "contractName": "AlloV1/QuadraticFundingVotingStrategyFactory/V2",
+        "address": "0x4a850F463D1C4842937c5Bc9540dBc803D744c9F",
+        "fromBlock": 16994526,
+        "eventsRenames": []
+      },
+      {
+        "contractName": "AlloV1/MerklePayoutStrategyFactory/V2",
+        "address": "0x8F8d78f119Aa722453d33d6881f4D400D67D054F",
+        "fromBlock": 16994526,
+        "eventsRenames": []
+      },
+      {
+        "contractName": "AlloV1/DirectPayoutStrategyFactory/V2",
+        "address": "0xd07D54b0231088Ca9BF7DA6291c911B885cBC140",
+        "fromBlock": 16994526,
+        "eventsRenames": []
+      },
+      {
+        "contractName": "AlloV1/ProgramFactory/V1",
+        "address": "0x56296242CA408bA36393f3981879fF9692F193cC",
+        "fromBlock": 16994451,
+        "eventsRenames": []
+      },
+      {
+        "contractName": "AlloV2/Registry/V1",
+        "address": "0x4AAcca72145e1dF2aeC137E1f3C5E3D75DB8b5f3",
+        "fromBlock": 18486688,
+        "eventsRenames": []
+      },
+      {
+        "contractName": "AlloV2/Allo/V1",
+        "address": "0x1133eA7Af70876e64665ecD07C0A0476d09465a1",
+        "fromBlock": 18486975,
+        "eventsRenames": []
+      }
+    ]
+  },
+  
+  
+ 
+  {
+    "id": 58008,
+    "name": "pgn-testnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmagrvn2SY5TEoLgqUtcc1745ABZTFoPmod37tW37u7HYo",
+    "rpc": {
+      "public": "https://sepolia.publicgoods.network",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1683079577,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [
+        {
+          "name": "TEST",
+          "chainId": 58008,
+          "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+          "logo": "DAI",
+          "decimal": 18
+        },
+        {
+          "name": "ETH",
+          "chainId": 58008,
+          "address": "0x0000000000000000000000000000000000000000",
+          "logo": "ETH",
+          "decimal": 18
+        }
+      ],
+      "indexer": [
+        {
+          "code": "ETH",
+          "icon": "",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "DAI",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+          "address": "0x5fbdb2315678afecb367f032d93f642f64180aa3",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 424,
+    "name": "pgn-mainnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmagrvn2SY5TEoLgqUtcc1745ABZTFoPmod37tW37u7HYo",
+    "rpc": {
+      "public": "https://rpc.publicgoods.network",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1683079577,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [
+        {
+          "name": "ETH",
+          "chainId": 424,
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimal": 18,
+          "logo": "ETH",
+          "redstoneTokenId": "ETH"
+        },
+        {
+          "name": "GTC",
+          "chainId": 424,
+          "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+          "decimal": 18,
+          "logo": "GTC",
+          "redstoneTokenId": "GTC"
+        },
+        {
+          "name": "DAI",
+          "chainId": 424,
+          "address": "0x6C121674ba6736644A7e73A8741407fE8a5eE5BA",
+          "decimal": 18,
+          "logo": "DAI",
+          "redstoneTokenId": "DAI"
+        }
+      ],
+      "indexer": [
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "GTC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmb9q9uW29Vw2jbV7pyHg3HGUJMoKsHaPvbrC8iX15QLZf",
+          "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
+          }
+        },
+        {
+          "code": "DAI",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+          "address": "0x6C121674ba6736644A7e73A8741407fE8a5eE5BA",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+ 
+  {
+    "id": 80001,
+    "name": "polygon-mumbai",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmcg4P1KcBQWYezSrV7KTCJxiq9a2aRtr1GBrXLAxNJqXy",
+    "rpc": {
+      "public": "https://rpc-mumbai.maticvigil.com/",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1692497177,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "MATIC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmcg4P1KcBQWYezSrV7KTCJxiq9a2aRtr1GBrXLAxNJqXy",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+          }
+        },
+        {
+          "code": "MATIC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmcg4P1KcBQWYezSrV7KTCJxiq9a2aRtr1GBrXLAxNJqXy",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+          }
+        },
+        {
+          "code": "USDC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "address": "0x9999f7Fea5938fD3b1E26A12c3f2fb024e194f97",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 137,
+    "name": "polygon",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmcg4P1KcBQWYezSrV7KTCJxiq9a2aRtr1GBrXLAxNJqXy",
+    "rpc": {
+      "public": "https://polygon-rpc.com",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1692497177,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "MATIC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmcg4P1KcBQWYezSrV7KTCJxiq9a2aRtr1GBrXLAxNJqXy",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+          }
+        },
+        {
+          "code": "MATIC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmcg4P1KcBQWYezSrV7KTCJxiq9a2aRtr1GBrXLAxNJqXy",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+          }
+        },
+        {
+          "code": "USDC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+          }
+        },
+        {
+          "code": "DATA",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmRy2AaexbGSXXct2N6Ph8DGgEXHRuT5bzE2snmZRBDtjQ",
+          "address": "0x3a9A81d576d83FF21f26f325066054540720fC34",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x8f693ca8d21b157107184d29d398a8d082b38b76"
+          }
+        },
+        {
+          "code": "USDGLO",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmbZt8kxgqd1hHUBYv3jSLMXSVxZ4XzmQL2LToggfcuRzB",
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 10,
+            "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 8543,
+    "name": "base",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQaAsfJpUuKmpX3eJEzgdZjqqFWmWHXnDy3MpPVJyDzcj",
+    "rpc": {
+      "public": "https://mainnet.base.org/",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": "1701486377",
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [
+        {
+          "name": "ETH",
+          "chainId": 8543,
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimal": 18,
+          "logo": "ETH",
+          "redstoneTokenId": "ETH"
+        },
+        {
+          "name": "USDC",
+          "chainId": 8543,
+          "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "decimal": 6,
+          "logo": "USDC",
+          "redstoneTokenId": "USDC"
+        }
+      ],
+      "indexer": [
+        {
+          "code": "USDC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 324,
+    "name": "zksync-era-mainnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
+    "rpc": {
+      "public": "https://mainnet.era.zksync.io",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": "1701486377",
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [
+        {
+          "name": "ETH",
+          "chainId": 324,
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimal": 18,
+          "logo": "ETH",
+          "redstoneTokenId": "ETH"
+        },
+        {
+          "name": "TEST",
+          "chainId": 324,
+          "address": "0x8fd03Cd97Da068CC242Ab7551Dc4100DD405E8c7",
+          "decimal": 18,
+          "logo": "DAI",
+          "redstoneTokenId": "DAI"
+        }
+      ],
+      "indexer": [
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "USDC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        },
+        {
+          "code": "USDT",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTDFjdejwv6gGXYUu8VbTw2eCjPhhJ217VM4vpXiSu5Xx",
+          "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+          }
+        },
+        {
+          "code": "DAI",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+          "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+          }
+        },
+        {
+          "code": "LUSD",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmaPosCSRnPjmjP6ekQtE2RXgv1MFy1eQSDyfPeuA6oSgw",
+          "address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+          }
+        },
+        {
+          "code": "MUTE",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmeHDSK2cKXhnAFzMCRh9UP7VSJpuv4ENagugisM757vYs",
+          "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 300,
+    "name": "zksync-era-testnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
+    "rpc": {
+      "public": "https://sepolia.era.zksync.dev",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1701486377,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [
+        {
+          "name": "ETH",
+          "chainId": 300,
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimal": 18,
+          "logo": "ETH",
+          "redstoneTokenId": "ETH"
+        }
+      ],
+      "indexer": [
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "TEST",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
+          "address": "0x8fd03Cd97Da068CC242Ab7551Dc4100DD405E8c7",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 43114,
+    "name": "avalanche",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+    "rpc": {
+      "public": "https://rpc.ankr.com/avalanche",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1692497177,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "AVAX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 43114,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "AVAX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 43114,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "USDC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 43113,
+    "name": "avalanche-fuji",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+    "rpc": {
+      "public": "https://avalanche-fuji-c-chain.publicnode.com",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1692497177,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "AVAX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 43114,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "AVAX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 43114,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "USDC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 534351,
+    "name": "scroll-sepolia",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
+    "rpc": {
+      "public": "https://sepolia-rpc.scroll.io",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1704164777,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "MTK",
+          "icon": "",
+          "address": "0xc2332031de487f430fae3290c05465d907785eda",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 534352,
+    "name": "scroll-mainnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
+    "rpc": {
+      "public": "https://rpc.scroll.io",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1704164777,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "ETH",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "USDC",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+          "decimals": 6,
+          "priceSource": {
+            "chainId": 1,
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 713715,
+    "name": "sei-devnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
+    "rpc": {
+      "public": "https://evm-rpc-arctic-1.sei-apis.com",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1704164777,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "SEI",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 713715,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "SEI",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 713715,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "WSEI",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
+          "address": "0x26841a0A5D958B128209F4ea9a1DD7E61558c330",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 713715,
+            "address": "0x26841a0A5D958B128209F4ea9a1DD7E61558c330"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 42,
+    "name": "lukso-mainnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+    "rpc": {
+      "public": "https://42.rpc.thirdweb.com",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1704164777,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "LYX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "LYX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "WLYX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+          "address": "0x2db41674f2b882889e5e1bd09a3f3613952bc472",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42,
+            "address": "0x2db41674f2b882889e5e1bd09a3f3613952bc472"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 4201,
+    "name": "lukso-testnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+    "rpc": {
+      "public": "https://4201.rpc.thirdweb.com",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1704164777,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "LYX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "LYX",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 42220,
+    "name": "celo-mainnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+    "rpc": {
+      "public": "https://forno.celo.org",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1704164777,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "CELO",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42220,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "CELO",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42220,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "CUSD",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmRxcma8Q1545Hcw6K7Z3gwS63FsZQieuGG7uQxeG8vHXS",
+          "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42220,
+            "address": "0x765de816845861e75a25fca122bb6898b8b1282a"
+          }
+        }
+      ],
+      "donation": []
+    }
+  },
+  {
+    "id": 44787,
+    "name": "celo-testnet",
+    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+    "rpc": {
+      "public": "https://alfajores-forno.celo-testnet.org",
+      "infura": "",
+      "alchemy": ""
+    },
+    "pricesFromTimestamp": 1704164777,
+    "maxGetLogsRange": "",
+    "tokens": {
+      "payout": [],
+      "indexer": [
+        {
+          "code": "CELO",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42220,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "code": "CELO",
+          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+          "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          "decimals": 18,
+          "priceSource": {
+            "chainId": 42220,
+            "address": "0x0000000000000000000000000000000000000000"
+          }
+        }
+      ],
+      "donation": []
+    }
+  }
+]

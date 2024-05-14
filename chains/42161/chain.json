@@ -1,0 +1,119 @@
+{
+  "id": 42161,
+  "name": "arbitrum",
+  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmZcLbB9U1VEdY8eXkW14CHhL21WVbJSUQ5s1dDTb1MSwJ",
+  "rpc": {
+    "public": "",
+    "infura": "",
+    "alchemy": "https://arb-mainnet.g.alchemy.com/v2/"
+  },
+  "pricesFromTimestamp": 1688263577,
+  "maxGetLogsRange": "",
+  "tokens": {
+    "payout": [
+      {
+        "name": "ETH",
+        "chainId": 42161,
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimal": 18,
+        "logo": "ETH",
+        "redstoneTokenId": "ETH"
+      },
+      {
+        "name": "USDC",
+        "chainId": 42161,
+        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "decimal": 6,
+        "logo": "USDC",
+        "redstoneTokenId": "USDC"
+      },
+      {
+        "name": "ARB",
+        "chainId": 42161,
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "decimal": 18,
+        "logo": "ARB",
+        "redstoneTokenId": "ARB"
+      },
+      {
+        "name": "USDGLO",
+        "chainId": 42161,
+        "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+        "decimal": 18,
+        "logo": "USDGLO",
+        "redstoneTokenId": "USDGLO"
+      },
+      {
+        "name": "GTC",
+        "chainId": 42161,
+        "address": "0x7f9a7db853ca816b9a138aee3380ef34c437dee0",
+        "decimal": 18,
+        "logo": "GTC",
+        "redstoneTokenId": "GTC"
+      }
+    ],
+    "indexer": [
+      {
+        "code": "USDC",
+        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+        "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "decimals": 6,
+        "priceSource": {
+          "chainId": 42161,
+          "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+        }
+      },
+      {
+        "code": "ARB",
+        "icon": "",
+        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+        "decimals": 18,
+        "priceSource": {
+          "chainId": 42161,
+          "address": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+        }
+      },
+      {
+        "code": "USDGLO",
+        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmbZt8kxgqd1hHUBYv3jSLMXSVxZ4XzmQL2LToggfcuRzB",
+        "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
+        "decimals": 18,
+        "priceSource": {
+          "chainId": 42161,
+          "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3"
+        }
+      },
+      {
+        "code": "ETH",
+        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "address": "0x0000000000000000000000000000000000000000",
+        "decimals": 18,
+        "priceSource": {
+          "chainId": 42161,
+          "address": "0x0000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "code": "ETH",
+        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+        "decimals": 18,
+        "priceSource": {
+          "chainId": 42161,
+          "address": "0x0000000000000000000000000000000000000000"
+        }
+      },
+      {
+        "code": "GTC",
+        "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmb9q9uW29Vw2jbV7pyHg3HGUJMoKsHaPvbrC8iX15QLZf",
+        "address": "0x7f9a7db853ca816b9a138aee3380ef34c437dee0",
+        "decimals": 18,
+        "priceSource": {
+          "chainId": 1,
+          "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
+        }
+      }
+    ],
+    "donation": []
+  }
+}
