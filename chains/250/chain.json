@@ -106,5 +106,47 @@
       }
     ],
     "donation": []
-  }
+  },
+  "subscriptions": [
+    {
+      "contractName": "AlloV1/ProjectRegistry/V2",
+      "address": "0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174",
+      "fromBlock": 65169115
+    },
+    {
+      "contractName": "AlloV1/RoundFactory/V2",
+      "address": "0xfb08d1fD3a7c693677eB096E722ABf4Ae63B0B95",
+      "fromBlock": 66509340
+    },
+    {
+      "contractName": "AlloV1/QuadraticFundingVotingStrategyFactory/V2",
+      "address": "0x534d2AAc03dCd0Cb3905B591BAf04C14A95426AB",
+      "fromBlock": 66509340
+    },
+    {
+      "contractName": "AlloV1/MerklePayoutStrategyFactory/V2",
+      "address": "0xFA1D9FF7F885757fc20Fdd9D78B72F88B00Cff77",
+      "fromBlock": 66509340
+    },
+    {
+      "contractName": "AlloV1/DirectPayoutStrategyFactory/V2",
+      "address": "0x9B1Ee60B539a3761E328a621A3d980EE9385679a",
+      "fromBlock": 66509340
+    },
+    {
+      "contractName": "AlloV1/ProgramFactory/V1",
+      "address": "0x4d1f64c7920262c8F78e989C9E7Bf48b7eC02Eb5",
+      "fromBlock": 65169115
+    },
+    {
+      "address": "0x4aacca72145e1df2aec137e1f3c5e3d75db8b5f3",
+      "contractName": "AlloV2/Registry/V1",
+      "fromBlock": 77624278
+    },
+    {
+      "contractName": "AlloV2/Allo/V1",
+      "address": "0x1133eA7Af70876e64665ecD07C0A0476d09465a1",
+      "fromBlock": 77624963
+    }
+  ]
 }
