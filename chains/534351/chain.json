@@ -1,7 +1,7 @@
 {
   "id": 534351,
   "name": "scroll-sepolia",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
+  "icon": "https://ipfs.io/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
   "rpc": {
     "public": "https://sepolia-rpc.scroll.io",
     "infura": "",
@@ -14,7 +14,7 @@
     "indexer": [
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -24,7 +24,7 @@
       },
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {

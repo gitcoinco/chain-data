@@ -1,7 +1,7 @@
 {
   "id": 42,
   "name": "lukso-mainnet",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+  "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
   "rpc": {
     "public": "https://42.rpc.thirdweb.com",
     "infura": "",
@@ -14,7 +14,7 @@
     "indexer": [
       {
         "code": "LYX",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+        "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -24,7 +24,7 @@
       },
       {
         "code": "LYX",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+        "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {
@@ -34,7 +34,7 @@
       },
       {
         "code": "WLYX",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQsYGerBzt3gin3i8SsfEn1q7d62BBoWPSpzbPGbA9jHw",
+        "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
         "address": "0x2db41674f2b882889e5e1bd09a3f3613952bc472",
         "decimals": 18,
         "priceSource": {

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "mainnet",
-    "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+    "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
     "rpc": {
       "public": "",
       "infura": "https://mainnet.infura.io/v3/",
@@ -48,7 +48,7 @@
       "indexer": [
         {
           "code": "USDC",
-          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+          "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
           "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
           "decimals": 6,
           "priceSource": {
@@ -58,7 +58,7 @@
         },
         {
           "code": "DAI",
-          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+          "icon": "https://ipfs.io/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
           "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
           "decimals": 18,
           "priceSource": {
@@ -68,7 +68,7 @@
         },
         {
           "code": "ETH",
-          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
           "address": "0x0000000000000000000000000000000000000000",
           "decimals": 18,
           "priceSource": {
@@ -78,7 +78,7 @@
         },
         {
           "code": "ETH",
-          "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+          "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
           "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
           "decimals": 18,
           "priceSource": {

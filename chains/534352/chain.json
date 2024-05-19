@@ -1,7 +1,7 @@
 {
   "id": 534352,
   "name": "scroll-mainnet",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
+  "icon": "https://ipfs.io/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
   "rpc": {
     "public": "https://rpc.scroll.io",
     "infura": "",
@@ -31,7 +31,7 @@
     "indexer": [
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -41,7 +41,7 @@
       },
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {
@@ -51,7 +51,7 @@
       },
       {
         "code": "USDC",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+        "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
         "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
         "decimals": 6,
         "priceSource": {

@@ -1,7 +1,7 @@
 {
   "id": 250,
   "name": "fantom",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
+  "icon": "https://ipfs.io/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
   "rpc": {
     "public": "https://rpcapi.fantom.network",
     "infura": "",
@@ -55,7 +55,7 @@
     "indexer": [
       {
         "code": "USDC",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+        "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
         "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
         "decimals": 6,
         "priceSource": {
@@ -65,7 +65,7 @@
       },
       {
         "code": "DAI",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+        "icon": "https://ipfs.io/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
         "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
         "decimals": 18,
         "priceSource": {
@@ -75,7 +75,7 @@
       },
       {
         "code": "FTM",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
+        "icon": "https://ipfs.io/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -85,7 +85,7 @@
       },
       {
         "code": "FTM",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
+        "icon": "https://ipfs.io/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {
@@ -95,7 +95,7 @@
       },
       {
         "code": "GcV",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmX2KeJ9xd3RWc4HxGVUWmyq4ELT2z4kJekfv4AgZqp6dz",
+        "icon": "https://ipfs.io/ipfs/QmX2KeJ9xd3RWc4HxGVUWmyq4ELT2z4kJekfv4AgZqp6dz",
         "address": "0x83791638da5EB2fAa432aff1c65fbA47c5D29510",
         "decimals": 18,
         "voteAmountCap": "1000000000000000000",

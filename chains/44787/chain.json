@@ -1,7 +1,7 @@
 {
   "id": 44787,
   "name": "celo-testnet",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+  "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
   "rpc": {
     "public": "https://alfajores-forno.celo-testnet.org",
     "infura": "",
@@ -14,7 +14,7 @@
     "indexer": [
       {
         "code": "CELO",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+        "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -24,7 +24,7 @@
       },
       {
         "code": "CELO",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+        "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {

@@ -1,7 +1,7 @@
 {
   "id": 43114,
   "name": "avalanche",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+  "icon": "https://ipfs.io/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
   "rpc": {
     "public": "https://rpc.ankr.com/avalanche",
     "infura": "",
@@ -31,7 +31,7 @@
     "indexer": [
       {
         "code": "AVAX",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+        "icon": "https://ipfs.io/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -41,7 +41,7 @@
       },
       {
         "code": "AVAX",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
+        "icon": "https://ipfs.io/ipfs/QmfUQj2Rz1kvRZmBDHAfSaGx9rxsD5D1YjaXXdmZpE4JWe",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {
@@ -51,7 +51,7 @@
       },
       {
         "code": "USDC",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+        "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
         "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
         "decimals": 6,
         "priceSource": {

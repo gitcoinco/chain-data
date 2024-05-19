@@ -1,7 +1,7 @@
 {
   "id": 324,
   "name": "zksync-era-mainnet",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
+  "icon": "https://ipfs.io/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
   "rpc": {
     "public": "https://mainnet.era.zksync.io",
     "infura": "",
@@ -31,7 +31,7 @@
     "indexer": [
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -41,7 +41,7 @@
       },
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {
@@ -51,7 +51,7 @@
       },
       {
         "code": "USDC",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+        "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
         "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
         "decimals": 6,
         "priceSource": {
@@ -61,7 +61,7 @@
       },
       {
         "code": "USDT",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTDFjdejwv6gGXYUu8VbTw2eCjPhhJ217VM4vpXiSu5Xx",
+        "icon": "https://ipfs.io/ipfs/QmTDFjdejwv6gGXYUu8VbTw2eCjPhhJ217VM4vpXiSu5Xx",
         "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
         "decimals": 6,
         "priceSource": {
@@ -71,7 +71,7 @@
       },
       {
         "code": "DAI",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+        "icon": "https://ipfs.io/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
         "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
         "decimals": 18,
         "priceSource": {
@@ -81,7 +81,7 @@
       },
       {
         "code": "LUSD",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmaPosCSRnPjmjP6ekQtE2RXgv1MFy1eQSDyfPeuA6oSgw",
+        "icon": "https://ipfs.io/ipfs/QmaPosCSRnPjmjP6ekQtE2RXgv1MFy1eQSDyfPeuA6oSgw",
         "address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115",
         "decimals": 18,
         "priceSource": {
@@ -91,7 +91,7 @@
       },
       {
         "code": "MUTE",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmeHDSK2cKXhnAFzMCRh9UP7VSJpuv4ENagugisM757vYs",
+        "icon": "https://ipfs.io/ipfs/QmeHDSK2cKXhnAFzMCRh9UP7VSJpuv4ENagugisM757vYs",
         "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
         "decimals": 18,
         "priceSource": {

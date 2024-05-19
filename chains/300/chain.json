@@ -1,7 +1,7 @@
 {
   "id": 300,
   "name": "zksync-era-testnet",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
+  "icon": "https://ipfs.io/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
   "rpc": {
     "public": "https://sepolia.era.zksync.dev",
     "infura": "",
@@ -23,7 +23,7 @@
     "indexer": [
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -33,7 +33,7 @@
       },
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {
@@ -43,7 +43,7 @@
       },
       {
         "code": "TEST",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
+        "icon": "https://ipfs.io/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
         "address": "0x8fd03Cd97Da068CC242Ab7551Dc4100DD405E8c7",
         "decimals": 18,
         "priceSource": {

@@ -1,7 +1,7 @@
 {
   "id": 42220,
   "name": "celo-mainnet",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+  "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
   "rpc": {
     "public": "https://forno.celo.org",
     "infura": "",
@@ -14,7 +14,7 @@
     "indexer": [
       {
         "code": "CELO",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+        "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -24,7 +24,7 @@
       },
       {
         "code": "CELO",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+        "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {
@@ -34,7 +34,7 @@
       },
       {
         "code": "CUSD",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmRxcma8Q1545Hcw6K7Z3gwS63FsZQieuGG7uQxeG8vHXS",
+        "icon": "https://ipfs.io/ipfs/QmRxcma8Q1545Hcw6K7Z3gwS63FsZQieuGG7uQxeG8vHXS",
         "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
         "decimals": 18,
         "priceSource": {

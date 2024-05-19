@@ -1,7 +1,7 @@
 {
   "id": 10,
   "name": "optimism",
-  "icon": "https://gitcoin.mypinata.cloud/ipfs/QmZzq5SpFNGJr9DTgaUck9iBVAWRpNnJVndTxgTGbrrZn2",
+  "icon": "https://ipfs.io/ipfs/QmZzq5SpFNGJr9DTgaUck9iBVAWRpNnJVndTxgTGbrrZn2",
   "rpc": {
     "public": "",
     "infura": "",
@@ -39,7 +39,7 @@
     "indexer": [
       {
         "code": "USDC",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+        "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
         "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
         "decimals": 6,
         "priceSource": {
@@ -49,7 +49,7 @@
       },
       {
         "code": "DAI",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+        "icon": "https://ipfs.io/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "decimals": 18,
         "priceSource": {
@@ -59,7 +59,7 @@
       },
       {
         "code": "USDGLO",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmbZt8kxgqd1hHUBYv3jSLMXSVxZ4XzmQL2LToggfcuRzBg",
+        "icon": "https://ipfs.io/ipfs/QmbZt8kxgqd1hHUBYv3jSLMXSVxZ4XzmQL2LToggfcuRzBg",
         "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
         "decimals": 18,
         "priceSource": {
@@ -80,7 +80,7 @@
       },
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "priceSource": {
@@ -90,7 +90,7 @@
       },
       {
         "code": "ETH",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
         "decimals": 18,
         "priceSource": {
@@ -100,7 +100,7 @@
       },
       {
         "code": "OP",
-        "icon": "https://gitcoin.mypinata.cloud/ipfs/QmZzq5SpFNGJr9DTgaUck9iBVAWRpNnJVndTxgTGbrrZn2",
+        "icon": "https://ipfs.io/ipfs/QmZzq5SpFNGJr9DTgaUck9iBVAWRpNnJVndTxgTGbrrZn2",
         "address": "0x4200000000000000000000000000000000000042",
         "decimals": 18,
         "priceSource": {
