@@ -2,39 +2,33 @@
   "id": 44787,
   "name": "celo-testnet",
   "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
-  "rpc": {
-    "public": "https://alfajores-forno.celo-testnet.org",
-    "infura": "",
-    "alchemy": ""
-  },
+  "rpc": "https://alfajores-forno.celo-testnet.org",
   "pricesFromTimestamp": 1704164777,
   "maxGetLogsRange": "",
-  "tokens": {
-    "payout": [],
-    "indexer": [
-      {
-        "code": "CELO",
-        "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 42220,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+  "tokens": [
+    {
+      "code": "CELO",
+      "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 42220,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "CELO",
-        "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 42220,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
-      }
-    ],
-    "donation": []
-  },
+      "redstoneTokenId": "CELO"
+    },
+    {
+      "code": "CELO",
+      "icon": "https://ipfs.io/ipfs/QmQ16s5NLSQCRpaETRqBAq93hWU8nuDebZMT5D4JhQumf6",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 42220,
+        "address": "0x0000000000000000000000000000000000000000"
+      },
+      "redstoneTokenId": "CELO"
+    }
+  ],
   "subscriptions": [
     {
       "contractName": "AlloV2/Registry/V1",

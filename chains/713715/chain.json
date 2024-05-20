@@ -2,58 +2,44 @@
   "id": 713715,
   "name": "sei-devnet",
   "icon": "https://ipfs.io/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
-  "rpc": {
-    "public": "https://evm-rpc-arctic-1.sei-apis.com",
-    "infura": "",
-    "alchemy": ""
-  },
+  "rpc": "https://evm-rpc-arctic-1.sei-apis.com",
   "pricesFromTimestamp": 1704164777,
   "maxGetLogsRange": "",
-  "tokens": {
-    "payout": [
-      {
-        "name": "SEI",
+  "tokens": [
+    {
+      "code": "SEI",
+      "icon": "https://ipfs.io/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "priceSource": {
         "chainId": 713715,
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimal": 18,
-        "logo": "SEI",
-        "redstoneTokenId": "SEI"
-      }
-    ],
-    "indexer": [
-      {
-        "code": "SEI",
-        "icon": "https://ipfs.io/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 713715,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "SEI",
-        "icon": "https://ipfs.io/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 713715,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+      "redstoneTokenId": "SEI"
+    },
+    {
+      "code": "SEI",
+      "icon": "https://ipfs.io/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 713715,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "WSEI",
-        "icon": "https://ipfs.io/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
-        "address": "0x26841a0A5D958B128209F4ea9a1DD7E61558c330",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 713715,
-          "address": "0x26841a0A5D958B128209F4ea9a1DD7E61558c330"
-        }
-      }
-    ],
-    "donation": []
-  },
+      "redstoneTokenId": "SEI"
+    },
+    {
+      "code": "WSEI",
+      "icon": "https://ipfs.io/ipfs/QmUvNaLwzNf1bHjqTMW1aBjRgd5FrsTDqjSnyypLwxv8x5",
+      "address": "0x26841a0A5D958B128209F4ea9a1DD7E61558c330",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 713715,
+        "address": "0x26841a0A5D958B128209F4ea9a1DD7E61558c330"
+      },
+      "redstoneTokenId": "SEI"
+    }
+  ],
   "subscriptions": [
     {
       "contractName": "AlloV2/Registry/V1",

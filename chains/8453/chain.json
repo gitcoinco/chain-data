@@ -2,66 +2,44 @@
   "id": 8453,
   "name": "base",
   "icon": "https://ipfs.io/ipfs/QmQaAsfJpUuKmpX3eJEzgdZjqqFWmWHXnDy3MpPVJyDzcj",
-  "rpc": {
-    "public": "https://mainnet.base.org/",
-    "infura": "",
-    "alchemy": ""
-  },
+  "rpc": "https://mainnet.base.org/",
   "pricesFromTimestamp": "1701486377",
   "maxGetLogsRange": "",
-  "tokens": {
-    "payout": [
-      {
-        "name": "ETH",
-        "chainId": 8453,
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimal": 18,
-        "logo": "ETH",
-        "redstoneTokenId": "ETH"
+  "tokens": [
+    {
+      "code": "USDC",
+      "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "decimals": 6,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
       },
-      {
-        "name": "USDC",
-        "chainId": 8453,
-        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-        "decimal": 6,
-        "logo": "USDC",
-        "redstoneTokenId": "USDC"
-      }
-    ],
-    "indexer": [
-      {
-        "code": "USDC",
-        "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
-        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-        "decimals": 6,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-        }
+      "redstoneTokenId": "USDC"
+    },
+    {
+      "code": "ETH",
+      "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "ETH",
-        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+      "redstoneTokenId": "ETH"
+    },
+    {
+      "code": "ETH",
+      "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "ETH",
-        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
-      }
-    ],
-    "donation": []
-  },
+      "redstoneTokenId": "ETH"
+    }
+  ],
   "subscriptions": [
     {
       "address": "0xA78Daa89fE9C1eC66c5cB1c5833bC8C6Cb307918",

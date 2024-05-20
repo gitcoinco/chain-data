@@ -2,49 +2,44 @@
   "id": 534351,
   "name": "scroll-sepolia",
   "icon": "https://ipfs.io/ipfs/QmYRA5tXMmGxhw7HUNdr9DYN2GRX3MnLoJVweeWKgfxBZX",
-  "rpc": {
-    "public": "https://sepolia-rpc.scroll.io",
-    "infura": "",
-    "alchemy": ""
-  },
+  "rpc": "https://sepolia-rpc.scroll.io",
   "pricesFromTimestamp": 1704164777,
   "maxGetLogsRange": "",
-  "tokens": {
-    "payout": [],
-    "indexer": [
-      {
-        "code": "ETH",
-        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+  "tokens": [
+    {
+      "code": "ETH",
+      "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "ETH",
-        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+      "redstoneTokenId": "ETH"
+    },
+    {
+      "code": "ETH",
+      "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "MTK",
-        "icon": "",
-        "address": "0xc2332031de487f430fae3290c05465d907785eda",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
-        }
-      }
-    ],
-    "donation": []
-  },
+      "redstoneTokenId": "ETH"
+    },
+    {
+      "code": "MTK",
+      "icon": "",
+      "address": "0xc2332031de487f430fae3290c05465d907785eda",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+      },
+      "redstoneTokenId": "MTK"
+    }
+  ],
   "subscriptions": [
     {
       "contractName": "AlloV1/ProjectRegistry/V2",

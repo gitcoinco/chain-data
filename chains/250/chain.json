@@ -2,111 +2,91 @@
   "id": 250,
   "name": "fantom",
   "icon": "https://ipfs.io/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
-  "rpc": {
-    "public": "https://rpcapi.fantom.network",
-    "infura": "",
-    "alchemy": ""
-  },
+  "rpc": "https://rpcapi.fantom.network",
   "pricesFromTimestamp": 1667354777,
   "maxGetLogsRange": "",
-  "tokens": {
-    "payout": [
-      {
-        "name": "WFTM",
+  "tokens": [
+    {
+      "code": "USDC",
+      "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "decimals": 6,
+      "priceSource": {
         "chainId": 250,
-        "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-        "decimal": 18,
-        "logo": "FTM",
-        "redstoneTokenId": "FTM"
+        "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
       },
-      {
-        "name": "FTM",
+      "redstoneTokenId": "USDC"
+    },
+    {
+      "name": "BUSD",
+      "chainId": 250,
+      "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+      "decimal": 18,
+      "logo": "BUSD",
+      "priceSource": {
         "chainId": 250,
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimal": 18,
-        "logo": "FTM",
-        "redstoneTokenId": "FTM"
+        "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50"
       },
-      {
-        "name": "BUSD",
+      "redstoneTokenId": "BUSD"
+    },
+    {
+      "code": "DAI",
+      "icon": "https://ipfs.io/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "decimals": 18,
+      "priceSource": {
         "chainId": 250,
-        "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
-        "decimal": 18,
-        "logo": "BUSD",
-        "redstoneTokenId": "BUSD"
+        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
       },
-      {
-        "name": "DAI",
+      "redstoneTokenId": "DAI"
+    },
+    {
+      "code": "FTM",
+      "icon": "https://ipfs.io/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "priceSource": {
         "chainId": 250,
-        "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
-        "decimal": 18,
-        "logo": "DAI",
-        "redstoneTokenId": "DAI"
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "name": "GcV",
+      "redstoneTokenId": "FTM"
+    },
+    {
+      "code": "FTM",
+      "icon": "https://ipfs.io/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0x0000000000000000000000000000000000000000"
+      },
+      "redstoneTokenId": "FTM"
+    },
+    {
+      "code": "GcV",
+      "icon": "https://ipfs.io/ipfs/QmX2KeJ9xd3RWc4HxGVUWmyq4ELT2z4kJekfv4AgZqp6dz",
+      "address": "0x83791638da5EB2fAa432aff1c65fbA47c5D29510",
+      "decimals": 18,
+      "voteAmountCap": "1000000000000000000",
+      "priceSource": {
         "chainId": 250,
-        "address": "0x83791638da5EB2fAa432aff1c65fbA47c5D29510",
-        "decimal": 18,
-        "logo": "GCV",
-        "redstoneTokenId": "DAI"
-      }
-    ],
-    "indexer": [
-      {
-        "code": "USDC",
-        "icon": "https://ipfs.io/ipfs/QmTBHBZchoxncW1LXCvptTbvRzuZDN8yzze3xXrRsh2WZz",
-        "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-        "decimals": 6,
-        "priceSource": {
-          "chainId": 250,
-          "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
-        }
+        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
       },
-      {
-        "code": "DAI",
-        "icon": "https://ipfs.io/ipfs/QmcCsabAp3y4arCKfBgKPuUgjgteerQnZyCPZzUZFygr4x",
-        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 250,
-          "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
-        }
+      "redstoneTokenId": "GcV"
+    },
+    {
+      "code": "WFTM",
+      "chainId": 250,
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "decimal": 18,
+      "logo": "FTM",
+      "priceSource": {
+        "chainId": 250,
+        "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
       },
-      {
-        "code": "FTM",
-        "icon": "https://ipfs.io/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 250,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
-      },
-      {
-        "code": "FTM",
-        "icon": "https://ipfs.io/ipfs/QmXRGMaLqDiDoKjJQ3bUKWWYaQwE36jH7BbsQru5X4XXRo",
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
-      },
-      {
-        "code": "GcV",
-        "icon": "https://ipfs.io/ipfs/QmX2KeJ9xd3RWc4HxGVUWmyq4ELT2z4kJekfv4AgZqp6dz",
-        "address": "0x83791638da5EB2fAa432aff1c65fbA47c5D29510",
-        "decimals": 18,
-        "voteAmountCap": "1000000000000000000",
-        "priceSource": {
-          "chainId": 250,
-          "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
-        }
-      }
-    ],
-    "donation": []
-  },
+      "redstoneTokenId": "FTM"
+    }
+  ],
   "subscriptions": [
     {
       "contractName": "AlloV1/ProjectRegistry/V2",

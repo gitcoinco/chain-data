@@ -2,58 +2,33 @@
   "id": 300,
   "name": "zksync-era-testnet",
   "icon": "https://ipfs.io/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
-  "rpc": {
-    "public": "https://sepolia.era.zksync.dev",
-    "infura": "",
-    "alchemy": ""
-  },
+  "rpc": "https://sepolia.era.zksync.dev",
   "pricesFromTimestamp": 1701486377,
   "maxGetLogsRange": "",
-  "tokens": {
-    "payout": [
-      {
-        "name": "ETH",
-        "chainId": 300,
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimal": 18,
-        "logo": "ETH",
-        "redstoneTokenId": "ETH"
-      }
-    ],
-    "indexer": [
-      {
-        "code": "ETH",
-        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+  "tokens": [
+    {
+      "code": "ETH",
+      "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "ETH",
-        "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+      "redstoneTokenId": "ETH"
+    },
+    {
+      "code": "ETH",
+      "icon": "https://ipfs.io/ipfs/QmdPgVsrQAYJyDmrs17QTawu95z4gbaKGAwmBu73JFZc2f",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 1,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "TEST",
-        "icon": "https://ipfs.io/ipfs/Qmd6x7q8ug4e32BKWVMEWfTGdcownpAz74LMZuFHfg7Wet",
-        "address": "0x8fd03Cd97Da068CC242Ab7551Dc4100DD405E8c7",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 1,
-          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
-        }
-      }
-    ],
-    "donation": []
-  },
+      "redstoneTokenId": "ETH"
+    }
+  ],
   "subscriptions": [
     {
       "address": "0xb0F4882184EB6e3ed120c5181651D50719329788",

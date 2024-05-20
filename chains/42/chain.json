@@ -2,49 +2,44 @@
   "id": 42,
   "name": "lukso-mainnet",
   "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
-  "rpc": {
-    "public": "https://42.rpc.thirdweb.com",
-    "infura": "",
-    "alchemy": ""
-  },
+  "rpc": "https://42.rpc.thirdweb.com",
   "pricesFromTimestamp": 1704164777,
   "maxGetLogsRange": "",
-  "tokens": {
-    "payout": [],
-    "indexer": [
-      {
-        "code": "LYX",
-        "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
-        "address": "0x0000000000000000000000000000000000000000",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 42,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+  "tokens": [
+    {
+      "code": "LYX",
+      "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 42,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "LYX",
-        "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
-        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 42,
-          "address": "0x0000000000000000000000000000000000000000"
-        }
+      "redstoneTokenId": "LYX"
+    },
+    {
+      "code": "LYX",
+      "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 42,
+        "address": "0x0000000000000000000000000000000000000000"
       },
-      {
-        "code": "WLYX",
-        "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
-        "address": "0x2db41674f2b882889e5e1bd09a3f3613952bc472",
-        "decimals": 18,
-        "priceSource": {
-          "chainId": 42,
-          "address": "0x2db41674f2b882889e5e1bd09a3f3613952bc472"
-        }
-      }
-    ],
-    "donation": []
-  },
+      "redstoneTokenId": "LYX"
+    },
+    {
+      "code": "WLYX",
+      "icon": "https://ipfs.io/ipfs/QmZvBXAuN56WkYYoJPpQRDzCesfTQ1VQSKnTBxUqf1CzoJ",
+      "address": "0x2db41674f2b882889e5e1bd09a3f3613952bc472",
+      "decimals": 18,
+      "priceSource": {
+        "chainId": 42,
+        "address": "0x2db41674f2b882889e5e1bd09a3f3613952bc472"
+      },
+      "redstoneTokenId": "LYX"
+    }
+  ],
   "subscriptions": [
     {
       "contractName": "AlloV2/Registry/V1",
