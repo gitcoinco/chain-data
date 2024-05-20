@@ -1,5 +1,5 @@
 {
-  "id": 8543,
+  "id": 8453,
   "name": "base",
   "icon": "https://ipfs.io/ipfs/QmQaAsfJpUuKmpX3eJEzgdZjqqFWmWHXnDy3MpPVJyDzcj",
   "rpc": {
@@ -13,7 +13,7 @@
     "payout": [
       {
         "name": "ETH",
-        "chainId": 8543,
+        "chainId": 8453,
         "address": "0x0000000000000000000000000000000000000000",
         "decimal": 18,
         "logo": "ETH",
@@ -21,7 +21,7 @@
       },
       {
         "name": "USDC",
-        "chainId": 8543,
+        "chainId": 8453,
         "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
         "decimal": 6,
         "logo": "USDC",
